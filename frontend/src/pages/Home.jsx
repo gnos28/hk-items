@@ -39,7 +39,7 @@ export default function Home() {
                 data-id={item.id}
                 className="btn btn-danger"
               >
-                Delete
+                Deletee
               </button>
             </div>
           </div>
